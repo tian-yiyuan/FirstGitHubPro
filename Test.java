@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Test {
 	public static void main(String[] args) {
+		System.out.print("Hello,GitHub!");
 		Scanner input = new Scanner(System.in);
 		System.out.print("请输入课程代号（1-3之间的数字）：");
 		try {
